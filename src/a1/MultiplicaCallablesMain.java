@@ -27,7 +27,7 @@ public class MultiplicaCallablesMain {
         for (int i = 0; i < llistaResultats.size(); i++) {
             Future<Integer> resultat = llistaResultats.get(i);
             try {
-                System.out.println("Resultat tasca "+i+ " és:" + resultat.get());
+                System.out.printf("El resultat de la tasca %d és %d%n", i, resultat.get());
             } catch (InterruptedException | ExecutionException e) { }
         }
 
