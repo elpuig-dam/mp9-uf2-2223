@@ -16,3 +16,22 @@ TODO
 - [ ] Cursa dde cargols  
   > Entendre l'exercici der la cursa de cargols amb ScheduledThreadPool.
   > Fitxers: [Cargol](src/a1/Cargol.java), [Monitor Cargols](src/a1/MonitorCargols.java) i [Cursa de Cargols](src/a1/CursaCargols.java)
+
+<hr>
+
+### Setmana del 02/11-04/11
+
+TODO  
+
+- [ ]  Supermercat
+   > En un *supermercat* hi tenim diverses caixes que quan els hi arriba un client calculen el preu total de tot el seu
+   > carro de la compra:
+   > - El [Client](src/a1/Client.java) ha de tenir un nom i una llista dels preus dels productes(floats) que representa tot el que ha posat al carro.  
+   > - Si ha posat dos productes iguals a la llista li surten dos preus iguals, si hi han 20 productes la llista té una mida de 20.  
+   > - Una Caixa rep un Client i calcula el preu total de tots els productes que hi ha a la llista, després imprimeix el
+  resultat.
+   > - Com que hi ha diversos clients, cada client és assignat a una caixa diferent. 
+   > - Les caixes treballen alhora,  paral·lelament, però els clients d'una caixa atenen als clients seqüencialment.
+   > - Fer un programa *MainSupermercat* per similar el funcionament explicat, creant com a mínim dos clients amb la seva
+  llista de productes, i dues caixes, una per cada client.
+   > - Al final imprimeix el que ha de pagar cada client.
