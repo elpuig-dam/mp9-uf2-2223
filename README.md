@@ -7,3 +7,6 @@
 - Callable, Runnable
 - Executors: ThreadPoolExecutor, ScheduledThreadPool
 - Tasques de classe i deures: [TO DO](TODO.md)
+
+### a2
+- ForkJoinPool, RecursiveTask
