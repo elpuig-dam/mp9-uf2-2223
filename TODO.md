@@ -38,7 +38,7 @@ TODO
 - [ ]  Partida/Joc (ScheduledThreadPool)
    > - Jugador (nom, punts)
    > - DonarPunts (procés) a un jugador cada x segons (decidit per el executorService)
-   > - LlegirPunts (procés) d'un jugador per nar informant quants punts acumulats porta, cada x temsp.
+   > - LlegirPunts (procés) d'un jugador per anar informant quants punts acumulats porta, cada x temsp.
    > - Main -> Mínim 2 Jugadors amb els seus processos corresponents per obtenir punts i poder veure quants punts porten acumulats
    > - Main -> Cal treure una classificació final amb els punts aconseguits per cada jugador  
 
