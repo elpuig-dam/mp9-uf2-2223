@@ -7,9 +7,9 @@ public class Maxim {
 
 
     public static void main(String[] args) {
-        short[] data2 = createArray(1000000);
+        short[] data = createArray(1000000);
 
-        short[] data = {1,2,40,500,505,34,56,987,1009,2345,67,0,345};
+        short[] data2 = {1,2,40,500,505,34,56,987,1009,2345,67,0,345};
         // Mira el número de processadors
         int processadors = Runtime.getRuntime().availableProcessors();
         System.out.println("Num de processadors: " + processadors);
@@ -19,7 +19,7 @@ public class Maxim {
          int inici=0;
          int fi= data2.length;
 
-         MaximTask tasca = new MaximTask(data2, inici, fi);
+         MaximTask_v2 tasca = new MaximTask_v2(data2, inici, fi);
          long time = System.currentTimeMillis();
 
          // crida la tasca i espera que es completin

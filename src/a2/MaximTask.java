@@ -40,6 +40,7 @@ public class MaximTask extends RecursiveTask<Short> {
     @Override
     protected Short compute() {
         if(fi - inici <= LLINDAR){
+            ç
             return getMaxSeq();
         }else{
             return getMaxReq();
