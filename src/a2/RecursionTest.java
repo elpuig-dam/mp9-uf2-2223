@@ -2,7 +2,11 @@ package a2;
 
 public class RecursionTest {
 
-    private static void recurse(int i) {
+    public RecursionTest() {
+        System.out.println("init");
+    }
+
+    private void recurse(int i) {
        // System.out.println(i);
         try {
             recurse(i+1);
@@ -12,6 +16,7 @@ public class RecursionTest {
     }
 
     public static void main(String[] args) {
-        RecursionTest.recurse(0);
+        RecursionTest rec = new RecursionTest();
+        rec.recurse(0);
     }
 }

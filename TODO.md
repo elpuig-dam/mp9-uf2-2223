@@ -35,10 +35,17 @@ TODO
   llista de productes, i dues caixes, una per cada client.
    > - Al final imprimeix el que ha de pagar cada client.
 
-- [ ]  Partida/Joc (ScheduledThreadPool)
+- [x]  Partida/Joc (ScheduledThreadPool)
    > - Jugador (nom, punts)
    > - DonarPunts (procés) a un jugador cada x segons (decidit per el executorService)
    > - LlegirPunts (procés) d'un jugador per anar informant quants punts acumulats porta, cada x temsp.
    > - Main -> Mínim 2 Jugadors amb els seus processos corresponents per obtenir punts i poder veure quants punts porten acumulats
    > - Main -> Cal treure una classificació final amb els punts aconseguits per cada jugador  
 
+### Setmanes del 07/11-18/11
+
+TODO
+-  [ ] Exercicis de classe amb ForkJoinPool i RecursiveTask
+  - Càlcul del valor màxim en un array
+  - Càlcul del factorial
+  - Càlcul de la divisió (amb el mètode de les retes successives)
