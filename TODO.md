@@ -45,7 +45,16 @@ TODO
 ### Setmanes del 07/11-18/11
 
 TODO
--  [ ] Exercicis de classe amb ForkJoinPool i RecursiveTask
+-  [x] Exercicis de classe amb ForkJoinPool i RecursiveTask
   - Càlcul del valor màxim en un array
   - Càlcul del factorial
-  - Càlcul de la divisió (amb el mètode de les retes successives)
+  - Càlcul de la divisió (amb el mètode de les retes successives)  
+
+### Setmanes del 21/11-25/11
+
+TODO
+  1. Implementar una classe **CompteEstalvi** que tingui un **saldo** i uns mètodes **ingresar** i **retirar** com als apunts 
+  2. Crear un programa **main** on hi hagi un procés que realitzi 1000 ingressos de 100 euros i un procés que tregui 1000 vegades 50 euros.
+  3. Els dos processos s'han d'executar alhora.
+  4. Comprovar si ens dona un saldo incorrecte
+  5. Implementar una solució amb semàfors per garantir un accés sincronitzat al saldo i no tingui un valor inesperat.
