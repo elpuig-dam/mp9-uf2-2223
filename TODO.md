@@ -50,7 +50,7 @@ TODO
   - Càlcul del factorial
   - Càlcul de la divisió (amb el mètode de les retes successives)  
 
-### Setmanes del 21/11-25/11
+### Setmana del 21/11-25/11
 
 TODO
   1. Implementar una classe **CompteEstalvi** que tingui un **saldo** i els mètodes **ingresar** i **retirar** com als apunts 
