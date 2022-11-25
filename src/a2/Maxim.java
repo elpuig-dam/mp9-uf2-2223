@@ -17,9 +17,9 @@ public class Maxim {
          System.out.println("Inici càlcul");
          ForkJoinPool pool = new ForkJoinPool(processadors);
          int inici=0;
-         int fi= data2.length;
+         int fi= data.length;
 
-         MaximTask_v2 tasca = new MaximTask_v2(data2, inici, fi);
+         MaximTask_v2 tasca = new MaximTask_v2(data, inici, fi);
          long time = System.currentTimeMillis();
 
          // crida la tasca i espera que es completin
