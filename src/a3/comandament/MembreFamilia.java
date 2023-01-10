@@ -1,6 +1,4 @@
-package a3.Comandament;
-
-import java.util.ResourceBundle;
+package a3.comandament;
 
 public class MembreFamilia extends Thread {
 	Comandament com;

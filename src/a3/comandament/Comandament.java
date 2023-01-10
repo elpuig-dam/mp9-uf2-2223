@@ -1,4 +1,4 @@
-package a3.Comandament;
+package a3.comandament;
 
 
 public class Comandament {

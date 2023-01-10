@@ -1,6 +1,5 @@
-package a3.Comandament;
+package a3.comandament;
 
-import java.util.Arrays;
 import java.util.Locale;
 
 public class FightTV {

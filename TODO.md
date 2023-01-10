@@ -57,4 +57,14 @@ TODO
   2. Crear un programa **main** on hi hagi processos que realitzin 1000 ingressos de 100 euros i processos que treguin 1000 vegades 50 euros.
   3. Tots els processos s'han d'executar alhora.
   4. Comprovar el saldo final executant-lo varies vegades.
-  5. Implementar una solució amb semàfors per garantir un accés sincronitzat al saldo i no tingui un valor inesperat.
+  5. Implementar una solució amb semàfors per garantir un accés sincronitzat al saldo i no tingui un valor inesperat.  
+
+## Setmana 09-13/01/2023
+Exercicis de Monitors  
+
+1. Bany Mixt
+   A l'institut hi ha un bany mixte que cal gestionar el seu ús per (dones, homes i nens)
+    - Té una capacitat limitada
+    - No poden haver-hi a la vegada, a dins, persones de diferent tipus
+    - Tasca infinita de les persones: treballar i deprés anar al labavo
+
