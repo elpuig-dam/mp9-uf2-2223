@@ -63,7 +63,7 @@ TODO
 Exercicis de Monitors  
 
 1. Bany Mixt
-   A l'institut hi ha un bany mixte que cal gestionar el seu ús per (dones, homes i nens)
+   A l'institut hi ha un bany mixte que cal gestionar el seu ús per (dones, homes i nens)  
     - Té una capacitat limitada
     - No poden haver-hi a la vegada, a dins, persones de diferent tipus
     - Tasca infinita de les persones: treballar i deprés anar al labavo
