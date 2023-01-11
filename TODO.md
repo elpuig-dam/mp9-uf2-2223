@@ -62,7 +62,7 @@ TODO
 ## Setmana 09-13/01/2023
 Exercicis de Monitors  
 
-1. Bany Mixt
+1. Bany Mixt  
    A l'institut hi ha un bany mixte que cal gestionar el seu ús per (dones, homes i nens)  
     - Té una capacitat limitada
     - No poden haver-hi a la vegada, a dins, persones de diferent tipus
